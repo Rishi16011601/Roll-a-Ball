@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{465A12E5-0917-F68F-5DAA-36E0DFB33C2E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controls.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="59" Column="23" />
+      <File FileName="Assets/Scripts/RestartLevelButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Controls.cs" Line="37" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2085b420-2d6e-4ff3-a08a-37714ff2785d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
